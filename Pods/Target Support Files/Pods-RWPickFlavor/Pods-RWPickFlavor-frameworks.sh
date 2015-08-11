@@ -53,9 +53,11 @@ code_sign_if_enabled() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework 'Pods-RWPickFlavor/Alamofire.framework'
+  install_framework 'Pods-RWPickFlavor/BetterBaseClasses.framework'
   install_framework 'Pods-RWPickFlavor/MBProgressHUD.framework'
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework 'Pods-RWPickFlavor/Alamofire.framework'
+  install_framework 'Pods-RWPickFlavor/BetterBaseClasses.framework'
   install_framework 'Pods-RWPickFlavor/MBProgressHUD.framework'
 fi

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3A17B08E4E536D98BDF00B04"
+               BlueprintIdentifier = "21A4666B47422A4B2A3DCFF8"
                BuildableName = "Pods_RWPickFlavor.framework"
                BlueprintName = "Pods-RWPickFlavor"
                ReferencedContainer = "container:Pods.xcodeproj">

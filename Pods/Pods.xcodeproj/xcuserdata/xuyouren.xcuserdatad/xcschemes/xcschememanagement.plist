@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>BetterBaseClasses.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>MBProgressHUD.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,17 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>5A629106006A8FCC6490A07A31E4B4D1</key>
+		<key>22CEEE1D04780C4063968ED0602DF5B5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9918012C272038E59A1285800CE854FF</key>
+		<key>B8ADBC82DB1E8F09BCF2DE99B51E292D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FEBAB22D5B02F4BD283346822FEB25D9</key>
+		<key>E28C62B3A8E60D713CE0E4ED515C8A7D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F6506054ACFB2E0B4ED8EB4EB1CD04F9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

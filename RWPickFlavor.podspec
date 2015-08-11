@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.platform = :ios
   s.ios.deployment_target = '8.0'
   s.name         = "RWPickFlavor"
-  s.version      = "0.1.0"
+  s.version      = "0.2.0"
   s.requires_arc = true
   s.summary      = "RWPickFlavor lets a user select an ice cream flavor."
   s.homepage     = "https://github.com/s11113153/RMPickFlavor"
@@ -13,6 +13,7 @@ Pod::Spec.new do |s|
 
   s.framework = "UIKit"
   s.dependency 'Alamofire', '~> 1.1'
+  s.dependency 'BetterBaseClasses', '~> 1.0'
   s.dependency 'MBProgressHUD', '~> 0.9.0'
 
   s.source_files = "RWPickFlavor/**/*.{swift}"
